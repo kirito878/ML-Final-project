@@ -13,8 +13,7 @@ To install requirements:
 pip install -r requirements.txt
 ```
 ## 2.Code
-all code are in the src folder  
-[src](https://github.com/kirito878/final_project/tree/main/src)
+all code are in the [src](https://github.com/kirito878/final_project/tree/main/src)
 
 ## 3.Training
 To train the model , use [train.ipynb](https://github.com/kirito878/final_project/blob/main/src/train.ipynb)  
@@ -23,8 +22,7 @@ To train the model , use [train.ipynb](https://github.com/kirito878/final_projec
 To evaluate my model , please use [inference.ipynb](https://github.com/kirito878/final_project/blob/main/src/inference.ipynb)  
 if you want to evalutae some specific model , please uncomment correspond cell , or it will use the best model (default)
 ## 5.Pre-trained Models
-all pre-trained models are in the model folder  
-[my model](https://github.com/kirito878/final_project/tree/main/model)  
+all pre-trained models are in the [model](https://github.com/kirito878/final_project/tree/main/model)  
 1.[Logistic regression](https://github.com/kirito878/final_project/blob/main/model/logisticRegression.pickle)  
 2.[AdaBoost](https://github.com/kirito878/final_project/blob/main/model/AdaBoostClassifier.pickle)  
 3.[Elastic net](https://github.com/kirito878/final_project/blob/main/model/elasticNet.pickle)  
