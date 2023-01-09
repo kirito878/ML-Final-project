@@ -17,20 +17,20 @@ all code are in the src folder
 [src](https://github.com/kirito878/final_project/tree/main/src)
 
 ## 3.Training
-To train the model , use [train.ipynb](https://github.com/kirito878/final_project/blob/main/src/train.ipynb) 
+To train the model , use [train.ipynb] (https://github.com/kirito878/final_project/blob/main/src/train.ipynb) 
 
 ## 4.Inference
-To evaluate my model , please use [inference.ipynb](https://github.com/kirito878/final_project/blob/main/src/inference.ipynb) 
-if you want to evalutae some specific model , please uncomment correspond cell , or it will use the best model (default)  
+To evaluate my model , please use [inference.ipynb] (https://github.com/kirito878/final_project/blob/main/src/inference.ipynb) 
+if you want to evalutae some specific model , please uncomment correspond cell , or it will use the best model (default)
 ## 5.Pre-trained Models
 all pre-trained models are in the model folder 
-[my model](https://github.com/kirito878/final_project/tree/main/model) 
-1.[Logistic regression](https://github.com/kirito878/final_project/blob/main/model/logisticRegression.pickle) 
-2.[AdaBoost](https://github.com/kirito878/final_project/blob/main/model/AdaBoostClassifier.pickle) 
-3.[Elastic net](https://github.com/kirito878/final_project/blob/main/model/elasticNet.pickle) 
-4.[Elastic net cv](https://github.com/kirito878/final_project/blob/main/model/elasticNetCV.pickle) 
-5.[xgboost](https://github.com/kirito878/final_project/blob/main/model/XGBClassifier.pickle) 
-6.[lightgbm](https://github.com/kirito878/final_project/blob/main/model/model.txt)
+[my model] (https://github.com/kirito878/final_project/tree/main/model) 
+1.[Logistic regression] (https://github.com/kirito878/final_project/blob/main/model/logisticRegression.pickle) 
+2.[AdaBoost] (https://github.com/kirito878/final_project/blob/main/model/AdaBoostClassifier.pickle) 
+3.[Elastic net] (https://github.com/kirito878/final_project/blob/main/model/elasticNet.pickle) 
+4.[Elastic net cv] (https://github.com/kirito878/final_project/blob/main/model/elasticNetCV.pickle) 
+5.[xgboost] (https://github.com/kirito878/final_project/blob/main/model/XGBClassifier.pickle) 
+6.[lightgbm] (https://github.com/kirito878/final_project/blob/main/model/model.txt)
 ## 6.Results
 
 my model result :
