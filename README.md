@@ -2,7 +2,7 @@
 ## Reproducing Submission:
 1.instal requirements package  
 2.Download [kaggle data](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)  
-3.Download [Pre-train models](https://github.com/kirito878/final_project/blob/main/README.md#5pre-trained-models)    
+3.Download [Pre-train models](https://github.com/kirito878/final_project#5pre-trained-models)    
 4.[Inference](https://github.com/kirito878/final_project#4inference)  
 5.Make submission
 ## 1.Requirements
