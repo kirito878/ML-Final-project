@@ -19,7 +19,7 @@ all code are in the [src](https://github.com/kirito878/final_project/tree/main/s
 To train the model , use [train.ipynb](https://github.com/kirito878/final_project/blob/main/src/train.ipynb)  
 
 ## 4.Inference
-To evaluate my model , please use [inference.ipynb](https://github.com/kirito878/final_project/blob/main/src/inference.ipynb)  
+To evaluate my model , please use [109550165_Final_inference.ipynb](https://github.com/kirito878/final_project/blob/main/src/109550165_Final_inference.ipynb)  
 if you want to evalutae some specific model , please uncomment correspond cell , or it will use the best model (default)
 ## 5.Pre-trained Models
 all pre-trained models are in the [model](https://github.com/kirito878/final_project/tree/main/model)  
